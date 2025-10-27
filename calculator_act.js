@@ -14,7 +14,7 @@ function multiply(a, b){
 }
 
 function divide(a, b){
-    return a*b
+    return a/b
 }
 console.log ("Add: ", add(a, b))
 console.log ("Subtract: ", subtract(a, b) )
