@@ -1,8 +1,12 @@
 let a = 20
 let b = 13
 
-function add (a, b){
+function add(a, b){
     return a+b
 }
 
-console.log ("Sum: ", add(a, b))
+function subtract(a, b){
+    return a-b
+}
+console.log ("Add: ", add(a, b))
+console.log ("Subtract: ", )
