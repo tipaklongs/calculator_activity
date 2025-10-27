@@ -9,4 +9,4 @@ function subtract(a, b){
     return a-b
 }
 console.log ("Add: ", add(a, b))
-console.log ("Subtract: ", )
+console.log ("Subtract: ", subtract(a, b) )
